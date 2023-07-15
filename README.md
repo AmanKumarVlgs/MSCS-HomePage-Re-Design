@@ -10,4 +10,6 @@ Click the link provided to explore the Figma file and experience the intuitive l
 
 Your feedback is invaluable as it helps shape future enhancements. Together, let's create a digital space that effectively connects the government with its citizens. Thank you for joining me on this exciting journey!##
 
+Visit the MSCS website (https://mscs.dac.gov.in/)
+
 [https://www.figma.com/file/6FqweVDDZGD4SA4cEKF5qz/MSCS-Website-Re-Design?type=design&node-id=0%3A1&mode=design&t=cskyDMZf4HhmrpxY-1]
